@@ -1,5 +1,5 @@
 # pure_blood_chart.R
-# "Pure Blood" — Notes from the Abstract
+# "Pure Blood" — Notes from the Abstracts
 # Two-panel chart: current blood supply antibody composition vs.
 # what the Kentucky bill would have required
 # A. Rupert Crocker
@@ -111,7 +111,7 @@ combined <- p_current + p_required +
   plot_annotation(
     title    = "What 'Unvaccinated Blood' Would Have Left",
     subtitle = "The Kentucky bill would have disqualified 96.4% of the current donor pool",
-    caption  = "Sources: CDC seroprevalence report (2022); Louisville Public Media (2025)\nNotes from the Abstract · andrewrcrocker.substack.com",
+    caption  = "Sources: CDC seroprevalence report (2022); Louisville Public Media (2025)\nNotes from the Abstracts · andrewrcrocker.substack.com",
     theme    = theme(
       plot.background = element_rect(fill = cream, color = NA),
       plot.title      = element_text(
