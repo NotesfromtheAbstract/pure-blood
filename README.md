@@ -1,6 +1,6 @@
 # Pure Blood — Chart Package
 
-R code and data supporting the *Notes from the Abstract* piece **"Pure Blood: How a belief the biology already disproved is draining the blood supply and disappearing from the record."**
+R code and data supporting the *Notes from the Abstracts* piece **"Pure Blood: How a belief the biology already disproved is draining the blood supply and disappearing from the record."**
 
 Published at [andrewrcrocker.substack.com](https://andrewrcrocker.substack.com)
 
